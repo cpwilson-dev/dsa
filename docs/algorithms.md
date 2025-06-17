@@ -58,6 +58,7 @@ def merge(first, second):
             merged.append(second[j])
             j += 1
 
+
     merged.extend(first[i:])
     merged.extend(second[j:])
 
