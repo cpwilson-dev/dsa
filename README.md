@@ -27,7 +27,7 @@
 
 - Dailies:
     - Write up from DSA book 
-    01. Why Data STructures Matter
+    01. Why Data Structures Matter
     02. Why Algorithms Matter
     03. O Yes! Big O Notation
     04. Speeding UP Your Code with Big 0
