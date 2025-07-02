@@ -11,3 +11,5 @@ More precisely, a data structure is a collection of data values, the relationshi
 - Hash Maps: A data structure that maps keys to values.
 - Tries: A Tree used for storing and searching words efficiently.
 - Graphs: A collection of nodes connected by edges.
+
+## Why Data Structures Matter
