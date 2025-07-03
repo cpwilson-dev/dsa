@@ -16,7 +16,6 @@
 ## TODO:
 
 - Sprints:
-    - Clean out tutorial notes
     - Test with DSA notes
     - Test Github pages
     - Add Types to existing functions
