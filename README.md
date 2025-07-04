@@ -13,39 +13,35 @@
     - Tree View
 
 
-## TODO:
+## Project Plan:
 
-- Sprints:
-    - Test with DSA notes
-    - Test Github pages
-    - Add Types to existing functions
-    - Build out template and style sheets
-    - Update markdown parser to create index & content
-    - Integrate FZF search
-    - Build out README
-
-- Dailies:
-    - Write up from DSA book 
-    01. Why Data Structures Matter
-    02. Why Algorithms Matter
-    03. O Yes! Big O Notation
-    04. Speeding UP Your Code with Big 0
-    05. Opimizing Code With and Without Big 0
-    06. Optimizing for Optimistic Scenarios
-    07. Big O in Everday Code
-    08. Blazing Fast Lookup with Hash Tables
-    09. Crafting Elegant Codw with Stacks and Queues
-    10. Recursively Recurse with Recursion
-    11. Learning to Write in Recursive
-    12. Dynamic Programming
-    13. Recursive Algorithms for Speed
-    14. Node-Based Data Structures
-    15. Speeding Up All the jthings with Binary Search Trees
-    16. Keeping Your Priorities Straight with Heaps
-    17. It Doesn't Hurt to Trie
-    18. Connecting Everything with Graphs
-    19. Dealing with Space Constraints
-    20. Techniques for Code Optimization
+05. Why Data Structures Matter
+06. Why Algorithms Matter
+07. O Yes! Big O Notation
+08. Speeding UP Your Code with Big 0
+09. Opimizing Code With and Without Big 0
+10. Optimizing for Optimistic Scenarios
+11. Big O in Everday Code
+12. Blazing Fast Lookup with Hash Tables
+13. Crafting Elegant Codw with Stacks and Queues
+14. Recursively Recurse with Recursion
+15. Learning to Write in Recursive
+16. Dynamic Programming
+17. Recursive Algorithms for Speed
+18. Node-Based Data Structures
+19. Speeding Up All the jthings with Binary Search Trees
+20. Keeping Your Priorities Straight with Heaps
+21. It Doesn't Hurt to Trie
+22. Connecting Everything with Graphs
+23. Dealing with Space Constraints
+24. Techniques for Code Optimization
+25. Add Styling
+26. Test SSG
+27. Add FZF
+28. Add Tree View index to UI
+29. Add Types 
+30. Tidy Up
+31. Document & Publish
 
 
 
