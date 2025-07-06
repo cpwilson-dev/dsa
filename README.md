@@ -1,8 +1,8 @@
-# Data Structures & Algorithms
+# Notes
 
-## Plan:
+## Future:
 
-- Name: dsa (needs work)
+- Name: notes (needs work)
 - Idea: Build a SSG taking markdown notes, displaying in a TUI style. Include a fzf search similar to telescope.
 - Time: 1 month
 - Tasks:
