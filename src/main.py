@@ -5,11 +5,13 @@ import shutil
 from copystatic import copy_files_recursive
 from gencontent import generate_pages_recursive
 
+default_basepath = "/"
+
 dir_path_static = "./static"
 dir_path_public = "./docs"
-dir_path_content = "./content"
-template_path = "./template.html"
-default_basepath = "/"
+dir_path_content = "./notes"
+
+# template_path = "./template.html"
 
 
 def main():
@@ -24,8 +26,8 @@ def main():
     print("Generating static assets")
     copy_files_recursive(dir_path_static, dir_path_public)
 
-    print("Generating pages...")
-    generate_pages_recursive(dir_path_content, template_path, dir_path_public, basepath)
+    # print("Generating pages...")
+    # generate_pages_recursive(dir_path_content, template_path, dir_path_public, basepath)
 
 
 main()
